@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1550599754 source:c:\users\david\onedrive\documents\datastructures\ds1\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	<vector>
+	<list>
+
